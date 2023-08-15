@@ -39,6 +39,8 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 2114;4671;sea;5092;-1;-1;-1;-1;Kuowotu-Yekedieliesun
 2114;723;sea;5092;-1;-1;-1;-1;Kuowotu-Alahumaqi
 2145;5115;sea;1372;-1;-1;-1;-1;Zhanjiang-Nantong
+96;4383;sea;1269;-1;-1;-1;-1;Zeeland-DenHaag
+911;1001;sea;1663;-1;-1;-1;-1;Baawitigon-Marameg
 
 36;4999;sea;1926;-1;-1;-1;-1;Jutland-Jutland
 4999;35;sea;1926;-1;-1;-1;-1;Jutland-Jutland
@@ -118,7 +120,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 4700;2296;sea;1319;3215;1314;3215;1312;Lesbos-Biga
 285;2447;sea;1323;3374;1423;3381;1423;Kaffa-Mapa
 2022;976;sea;1559;-1;-1;-1;-1;Haida-Tlingit
-2587;2521;sea;1661;1530;1620;1515;1618;Odawa-Okouara
 2587;1001;sea;1661;1511;1656;1510;1660;Odawa-Soto
 2576;2578;sea;1490;-1;-1;-1;-1;Mingan-Anticosti
 249;4121;sea;1284;-1;-1;-1;-1;Ayrshire-Ulster
