@@ -41,6 +41,9 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 2145;5115;sea;1372;-1;-1;-1;-1;Zhanjiang-Nantong
 96;4383;sea;1269;-1;-1;-1;-1;Zeeland-DenHaag
 911;1001;sea;1663;-1;-1;-1;-1;Baawitigon-Marameg
+2413;2414;sea;5203;-1;-1;-1;-1;Tyn-Azaraba
+288;2414;sea;5203;-1;-1;-1;-1;LowerDon-Azaraba
+288;468;sea;5203;-1;-1;-1;-1;LowerDon-Manych
 
 36;4999;sea;1926;-1;-1;-1;-1;Jutland-Jutland
 4999;35;sea;1926;-1;-1;-1;-1;Jutland-Jutland
@@ -49,6 +52,8 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 14;5011;sea;1258;-1;-1;-1;-1;Jutland-Jutland
 1983;5011;sea;1258;-1;-1;-1;-1;Jutland-Jutland
 1015;5122;sea;1392;-1;-1;-1;-1;Jutland-Jutland
+
+5203;5204;canal;1971;-1;-1;-1;-1;wolga_canal
 
 242;5166;sea;1284;-1;-1;-1;-1;Jutland-Jutland
 
