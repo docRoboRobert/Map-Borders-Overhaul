@@ -1,6 +1,0 @@
-on_startup = {
-	1796 = { change_province_name = "Northern Algeria" }
-	1797 = { change_province_name = "Libyan Desert" }
-	1798 = { change_province_name = "Western Desert" }
-	2251 = { change_province_name = "Nubian Desert" }
-}
