@@ -45,6 +45,8 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 288;2414;sea;5203;-1;-1;-1;-1;LowerDon-Azaraba
 288;468;sea;5203;-1;-1;-1;-1;LowerDon-Manych
 
+5209;115;sea;1298;-1;-1;-1;-1;Jutland-Jutland
+
 36;4999;sea;1926;-1;-1;-1;-1;Jutland-Jutland
 4999;35;sea;1926;-1;-1;-1;-1;Jutland-Jutland
 35;39;sea;1256;-1;-1;-1;-1;Jutland-Jutland
