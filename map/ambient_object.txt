@@ -1161,7 +1161,7 @@ type={
 		name="Seagulls_english_channel"
 		hidden_on_start=no
 		position={
-			3090.000 0.100 99.000 
+			3092.000 0.100 101.000 
 		}
 		rotation={
 			0.000 -60.000 0.000 
@@ -1171,7 +1171,7 @@ type={
 		name="Seagulls_english_channel"
 		hidden_on_start=no
 		position={
-			3143.000 0.100 81.000 
+			3140.000 0.100 96.000 
 		}
 		rotation={
 			0.000 40.000 0.000 
@@ -2546,26 +2546,6 @@ type={
 		name="chichen_itza"
 		hidden_on_start=no
 		position={
-			1418.000 -0.050 1193.000 
-		}
-		rotation={
-			0.000 -103.000 0.000 
-		}
-	}
-	object={
-		name="chichen_itza"
-		hidden_on_start=no
-		position={
-			1422.000 -0.050 1190.000 
-		}
-		rotation={
-			0.000 -50.000 0.000 
-		}
-	}
-	object={
-		name="chichen_itza"
-		hidden_on_start=no
-		position={
 			1393.000 -0.050 1146.000 
 		}
 		rotation={
@@ -2600,6 +2580,26 @@ type={
 		}
 		rotation={
 			0.000 -120.000 0.000 
+		}
+	}
+	object={
+		name="chichen_itza"
+		hidden_on_start=no
+		position={
+			1418.000 -0.050 1193.000 
+		}
+		rotation={
+			0.000 -103.000 0.000 
+		}
+	}
+	object={
+		name="chichen_itza"
+		hidden_on_start=no
+		position={
+			1422.000 -0.050 1190.000 
+		}
+		rotation={
+			0.000 -50.000 0.000 
 		}
 	}
 	object={
@@ -2702,7 +2702,7 @@ type={
 		name="petra"
 		hidden_on_start=no
 		position={
-			3362.000 0.000 1138.000 
+			3365.000 -0.500 1139.000 
 		}
 		rotation={
 			0.000 -30.000 0.000 
@@ -2714,6 +2714,26 @@ type={
 	use_animation=no
 	scale=0.100000
 	time_duration=300.000000
+	object={
+		name="tenochtitlan"
+		hidden_on_start=no
+		position={
+			1394.000 0.300 1531.000 
+		}
+		rotation={
+			0.000 25.000 0.000 
+		}
+	}
+	object={
+		name="tenochtitlan"
+		hidden_on_start=no
+		position={
+			1395.000 0.300 1524.000 
+		}
+		rotation={
+			0.000 -20.000 0.000 
+		}
+	}
 	object={
 		name="tenochtitlan"
 		hidden_on_start=no
@@ -2734,7 +2754,7 @@ type={
 		name="buddha_big"
 		hidden_on_start=no
 		position={
-			3835.000 -1.000 1198.000 
+			3832.000 -1.000 1206.000 
 		}
 		rotation={
 			0.000 25.000 0.000 
@@ -2750,7 +2770,7 @@ type={
 		name="buddha_small"
 		hidden_on_start=no
 		position={
-			3839.000 -0.200 1202.000 
+			3838.000 -0.200 1205.000 
 		}
 		rotation={
 			0.000 -15.000 0.000 
@@ -2798,7 +2818,7 @@ type={
 		name="forbidden_city"
 		hidden_on_start=no
 		position={
-			4641.000 -0.020 1321.000 
+			4627.000 -0.020 1314.000 
 		}
 		rotation={
 			0.000 -30.000 0.000 
