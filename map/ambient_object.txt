@@ -3082,7 +3082,7 @@ type={
 		name="moai"
 		hidden_on_start=no
 		position={
-			1053.000 0.150 314.000 
+			1026.000 0.150 437.000 
 		}
 		rotation={
 			0.000 -12.000 0.000 
