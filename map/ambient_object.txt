@@ -837,6 +837,26 @@ type={
 		name="Seagulls_english_channel"
 		hidden_on_start=no
 		position={
+			4614.000 0.100 1168.000 
+		}
+		rotation={
+			0.000 -120.000 0.000 
+		}
+	}
+	object={
+		name="Seagulls_english_channel"
+		hidden_on_start=no
+		position={
+			4499.000 0.100 1143.000 
+		}
+		rotation={
+			0.000 -90.000 0.000 
+		}
+	}
+	object={
+		name="Seagulls_english_channel"
+		hidden_on_start=no
+		position={
 			4647.000 0.100 1149.000 
 		}
 		rotation={
