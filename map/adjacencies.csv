@@ -74,6 +74,16 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 288;2414;sea;5203;-1;-1;-1;-1;LowerDon-Azaraba
 288;468;sea;5203;-1;-1;-1;-1;LowerDon-Manych
 2014;4884;sea;1507;-1;-1;-1;-1;Natchitoches-Houma
+2247;1129;sea;1793;-1;-1;-1;-1;Hodh-Azwad
+1129;1130;sea;1793;-1;-1;-1;-1;Azwad-Tadmekka
+1129;1128;sea;1793;-1;-1;-1;-1;Azwad-Taudeni
+1130;2271;sea;1794;-1;-1;-1;-1;Tadmekka-Azawagh
+2274;2275;sea;1794;-1;-1;-1;-1;Air-Tenere
+2274;2277;sea;1795;-1;-1;-1;-1;Air-Kawar
+2275;2277;sea;1795;-1;-1;-1;-1;Kawar-Tenere
+2475;2277;sea;1795;-1;-1;-1;-1;Djado-Kawar
+2277;2284;sea;1795;-1;-1;-1;-1;Kawar-Manga
+2277;1158;sea;1795;-1;-1;-1;-1;Kawar-Kanem
 
 5209;115;sea;1298;-1;-1;-1;-1;Jutland-Jutland
 
